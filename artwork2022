@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Broken Souls FM</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="style.css" type="text/css">
+        <meta name="description" content="Broken Souls FM is the place to free your mind,
+        while reminsicing of your past, present and future.">
+        <meta name="keywords" content="Broken Souls, Broken Souls FM, Music, Radio Station">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet"> 
+    </head>
+
+    <body>
+        <header class="firstHeader">
+            <h1>Broken Souls Collection</h1>
+            <Small id="freesoul">Artwork by Exequias Valentine</Small>
+        </header>
+        <br>
+        <main>
+            <div class="artWork"> 
+                <img src="imagesforbs/Life cycle.PNG" height="300px" width="500px">
+                <img src="imagesforbs/red.jpeg" height="300px" width="500px">
+            </div>
+        </main>
+        <br>
+        <footer>
+            <h2 id="forgiving">Forgiving the past, and present which is now the future.</h2>
+        </footer>
+    </body>
+</html>
